@@ -4,7 +4,7 @@
     <div class="cover" :style="{'background-image': 'url(' + srcRWD(cover, coverWeb) + ')' }" ref="beginning">
       <div class="cover-title">
         <h3>
-          征服殘酷街頭<br>Angel：要把心中音樂帶給世界
+          一把提琴獨闖6國<br>她用音樂征服殘酷街頭
         </h3>
       </div>
     </div>
