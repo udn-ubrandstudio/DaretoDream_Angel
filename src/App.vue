@@ -17,7 +17,7 @@
     <br>
     <content-container>
       <div>
-        <share href="https://udn.com/upf/ubrand/2019_data/DaretoDream_BR/index.html"></share>
+        <share href="https://dc.udn.com/nereus/TEK1903F0001/DaretoDream_Angel/index.html"></share>
       </div>
       <br>
       <div class="title-track-same-month">
@@ -88,7 +88,7 @@
       <br>
       <div class="share-and-logo">
         <div class="share">
-          <share href="https://udn.com/upf/ubrand/2019_data/DaretoDream_BR/index.html"></share>
+          <share href="https://dc.udn.com/nereus/TEK1903F0001/DaretoDream_Angel/index.html"></share>
         </div>
         <div class="logo">
           <logo use-ubrand="yes" use-vision='no'>
@@ -109,7 +109,7 @@
         <div>2019.3.15</div>
       </editor>
       <p><br></p>
-      <fb-comment href="https://udn.com/upf/ubrand/2019_data/DaretoDream_BR/index.html"></fb-comment>
+      <fb-comment href="https://dc.udn.com/nereus/TEK1903F0001/DaretoDream_Angel/index.html"></fb-comment>
     </content-container>
     <back-top></back-top>
     <back-home></back-home>
@@ -207,10 +207,10 @@ export default {
   methods: {
     handleLinkTo (isLock ,idTo ,event) {
 
-      let label = "[DaretoDream_BR][" + idTo + "][外連到" + idTo + "]"
+      let label = "[DaretoDream_Angel][" + idTo + "][外連到" + idTo + "]"
 
       if(isLock) {
-        label = "[DaretoDream_BR][" + idTo + "][目前無法外連]"
+        label = "[DaretoDream_Angel][" + idTo + "][目前無法外連]"
         event.preventDefault()
       }
 
