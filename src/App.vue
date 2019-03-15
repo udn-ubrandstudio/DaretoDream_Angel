@@ -9,7 +9,7 @@
       </div>
     </div>
     <div class="back-to-home" ref="home" :class="{ 'hidden-home' : isShowHome }">
-      <a class="home" href="https://dc.udn.com/nereus/TEK1903F0001/DaretoDream/index.html">
+      <a class="home" href="https://udn.com/upf/ubrand/2019_data/DaretoDream/index.html">
         <img :src="srcRWD(home, homeWeb)" alt="">
         HOME
       </a>
@@ -17,11 +17,11 @@
     <br>
     <content-container>
       <div>
-        <share href="https://dc.udn.com/nereus/TEK1903F0001/DaretoDream_Angel/index.html"></share>
+        <share href="https://udn.com/upf/ubrand/2019_data/DaretoDream_Angel/index.html"></share>
       </div>
       <br>
       <div class="title-track-same-month">
-        <youtube src="https://www.youtube.com/embed/CJNp2fLVez0"></youtube>
+        <youtube src="https://www.youtube.com/embed/IiaNGVROjNA"></youtube>
       </div>
       <br>
       <p>站上街頭表演難不難？得面對一雙雙陌生眼光，幸運的話有人駐足或打賞，但大多數人是冷漠的。身為一名街頭藝人，每天都必須比昨天更努力，才有獲得掌聲的機會。</p>
@@ -88,7 +88,7 @@
       <br>
       <div class="share-and-logo">
         <div class="share">
-          <share href="https://dc.udn.com/nereus/TEK1903F0001/DaretoDream_Angel/index.html"></share>
+          <share href="https://udn.com/upf/ubrand/2019_data/DaretoDream_Angel/index.html"></share>
         </div>
         <div class="logo">
           <logo use-ubrand="yes" use-vision='no'>
@@ -109,7 +109,7 @@
         <div>2019.3.15</div>
       </editor>
       <p><br></p>
-      <fb-comment href="https://dc.udn.com/nereus/TEK1903F0001/DaretoDream_Angel/index.html"></fb-comment>
+      <fb-comment href="https://udn.com/upf/ubrand/2019_data/DaretoDream_Angel/index.html"></fb-comment>
     </content-container>
     <back-top></back-top>
     <back-home></back-home>
@@ -169,7 +169,7 @@ export default {
         name: 'Angel',
         profile: require('@/../static/profiles/angel.png'),
         profile_web: require('@/../static/profiles/angel_web.png'),
-        link: 'https://dc.udn.com/nereus/TEK1903F0001/DaretoDream_Angel/index.html',
+        link: 'https://udn.com/upf/ubrand/2019_data/DaretoDream_Angel/index.html',
         isLock: false
       },
       {

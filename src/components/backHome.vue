@@ -1,11 +1,11 @@
 <template>
   <div class="backtop-section">
-    <a href="https://dc.udn.com/nereus/TEK1903F0001/DaretoDream/index.html">
+    <a href="https://udn.com/upf/ubrand/2019_data/DaretoDream/index.html">
       <div class="backtop-btn" :class="{ 'backtop-active': isActive}">
         <img :src="home" alt="">
         <p>HOME</p>
       </div>
-    </a>   
+    </a>
   </div>
 </template>
 
